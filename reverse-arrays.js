@@ -1,5 +1,9 @@
 function reverseArray(arr) {
-  // Add code.
+  while(i = 0, arr.length,  i <= length,  i++) {
+    arr.pop();
+    let movedElement = arr.pop();
+    arr.unshift(movedElement);
+  }
 }
 
 function reverseArrayInPlace(arr) {

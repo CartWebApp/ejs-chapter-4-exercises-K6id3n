@@ -1,5 +1,7 @@
 function range(start, end, step = 1) {
-  // Add code.
+  let start = '20'
+  let num = parseInt.apply(start)
+  console.log(start)
 }
 
 function sum(numbers) {
